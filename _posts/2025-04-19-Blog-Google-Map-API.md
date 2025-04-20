@@ -38,6 +38,6 @@ What can be learned from the experience?
 
 ## Explore My Favorite Restaurant Locations
 
-<div style="width: 100%; height: 500px;">
+<!-- <div style="width: 100%; height: 500px;">
   <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1VUabcwHXIW4NTEngLckuGyLSyS2SwA4&ehbc=2E312F" width="640" height="480"></iframe>
-</div>
+</div> -->
