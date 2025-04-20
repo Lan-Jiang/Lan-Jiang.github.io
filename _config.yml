@@ -1,10 +1,10 @@
 # Site settings
 title: Lan's Blog
-SEOTitle: 蒋岚的博客 | Lan's Blog
+SEOTitle: Lan's Blog
 header-img: img/post-bg-desk.jpg
 email: elainejiang23@gmail.com
-description: "A self-starter business analyst looking for a analytics position."
-keyword: "Lan, Lan's Blog, 岚的博客, Lan-Jiang, 蒋岚, iOS, Apple, iPhone"
+description: "A tech savvy shares everything about the industry."
+keyword: "Lan, Lan's Blog, Lan-Jiang, iOS, Apple, iPhone, AI, LLM"
 url: "http://lan-jiang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Lan-Jiang/Lan-Jiang.github.io.git" # you code repository
@@ -20,6 +20,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 RSS: false
 # weibo_username:     qiubaiying
 github_username:    Lan-Jiang
+linkedin_username:  jianglan
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
