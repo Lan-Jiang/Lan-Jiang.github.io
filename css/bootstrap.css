@@ -6563,4 +6563,10 @@ button.close {
     display: none !important;
   }
 }
+
+img {
+  pointer-events: none;
+  -webkit-user-drag: none;
+  user-select: none;
+}
 /*# sourceMappingURL=bootstrap.css.map */

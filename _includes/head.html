@@ -52,4 +52,13 @@
 
     <!-- ga & ba script hoook -->
     <script></script>
+
+    <!-- image protection -->
+    <script>
+        document.addEventListener('contextmenu', function (e) {
+          if (e.target.tagName === 'IMG') {
+            e.preventDefault();
+          }
+        });
+      </script>
 </head>
